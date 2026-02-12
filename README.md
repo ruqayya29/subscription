@@ -15,4 +15,4 @@ A sleek, dark-themed pricing component designed for music streaming platforms. T
 * **Google Fonts** 
 
 ## 🚀 How to Use
-* Click here to view :   
+* Click here to view : https://ruqayya29.github.io/subscription/
